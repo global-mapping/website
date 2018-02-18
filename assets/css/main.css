@@ -3194,7 +3194,8 @@
 			filter: blur(0);
 			opacity: 1;
 			font-family: Raleway, Helvetica, sans-serif;
-			font-size: 2em;
+			font-size: 1.6em;
+			font-style: italic;
 			font-weight: 200;
 			letter-spacing: 0.1em;
 			line-height: 2;
